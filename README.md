@@ -1,3 +1,4 @@
+![Soo Github](./headerImage.svg)
 ## Hi there 👋
 
 <!--
