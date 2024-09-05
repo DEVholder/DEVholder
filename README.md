@@ -52,10 +52,11 @@
 <h4>Operating Systems</h4>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 
-
+<hr>
 <!-- Link -->
 <h4>Link</h4>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+<br>
 <a href="https://natural-individual-6b9.notion.site/Portfolio-57d99fe9d9a04169ae1e9e282a17645e?pvs=4">포트폴리오 바로가기</a>
 
 </div>
