@@ -1,5 +1,7 @@
-![Soo Github](./headerImage.svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soo+Github;포기하지+말고+나아가자)](https://git.io/typing-svg)
+<div align="center">
+  <img src="background.svg" width="800" height="200" alt="Background">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Soo+Github;한+발자국...+한+발자국...&font=Nanum+Gothic&color=FFFFFF&size=40&left=true&vCenter=true&width=700&height=100" alt="Typing SVG" />
+</div>
 <!--
 **DEVholder/DEVholder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
