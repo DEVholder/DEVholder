@@ -2,10 +2,11 @@
   <img src="headerImage.svg" width="800" height="200" alt="Background">
   <img src="https://readme-typing-svg.demolab.com/?lines=Soo+Github;한+발자국...+한+발자국...&font=Nanum+Gothic&color=FFFFFF&size=40&left=true&vCenter=true&width=700&height=100" alt="Typing SVG" />
 </div>
-
+<br>
+<br>
 <div align="center">
 
-### 🛠 Tech Stack 🛠
+## 🛠 Tech Stack 🛠
 
 <!-- 프로그래밍 언어 -->
 <h4>Programming Languages</h4>
