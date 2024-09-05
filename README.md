@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="background.svg" width="800" height="200" alt="Background">
+  <img src="headerImage.svg" width="800" height="200" alt="Background">
   <img src="https://readme-typing-svg.demolab.com/?lines=Soo+Github;한+발자국...+한+발자국...&font=Nanum+Gothic&color=FFFFFF&size=40&left=true&vCenter=true&width=700&height=100" alt="Typing SVG" />
 </div>
 <!--
