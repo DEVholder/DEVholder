@@ -7,7 +7,12 @@
   </defs>
   <rect width="100%" height="100%" fill="url(#grad)" />
   <path d="M0 160 Q 200 200 400 170 T 800 190 V 200 H 0 Z" fill="#4B0082" opacity="0.3" />
-  <text x="720" y="100" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#ffffff" text-anchor="end" dominant-baseline="middle">
-    Soo Github
-  </text>
+  
+  <foreignObject x="50" y="50" width="700" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Soo+Github;한+발자국...+한+발자국...&amp;font=Nanum+Gothic&amp;color=FFFFFF&amp;size=40&amp;left=true&amp;vCenter=true&amp;width=700&amp;height=100" alt="Typing SVG" />
+      </a>
+    </div>
+  </foreignObject>
 </svg>
